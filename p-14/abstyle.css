@@ -1,0 +1,11 @@
+.text{
+    color: #0a0adb;
+    font-size: 50px;
+    /* background: #b11965; */
+    /* text-transform: capitalize; */
+    /* text-transform: lowercase; */
+    /* text-transform: uppercase; */
+    text-wrap:nowrap;
+    text-shadow: #9898a3;
+    text-shadow: 1px 1  px 15px black;
+}
